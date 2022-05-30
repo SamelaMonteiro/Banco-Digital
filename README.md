@@ -1,1 +1,1 @@
-# Aplicativo de um Banco Digital criando com a linguagem Java.
+# Aplicativo de um Banco Digital criado com a linguagem Java.
